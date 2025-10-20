@@ -1,0 +1,10 @@
+﻿node_modules/
+dist/
+.env
+.env.local
+npm-debug.log*
+yarn-*.log*
+pnpm-*.log*
+.DS_Store
+prisma/*.db
+prisma/migrations/*/README.md
